@@ -1,4 +1,10 @@
 @charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Passion+One:wght@400;700;900&display=swap');
+
+:root{
+   --fonte1: Verdana, Geneva, tahoma, sans-serif
+   --fonte2: 'passion One', sans-serif;
+}
 
 * {
     margin: 0px;
